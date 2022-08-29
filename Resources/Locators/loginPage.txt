@@ -1,0 +1,9 @@
+*** Variables ***
+
+#Login page locators
+
+${login_header}                               //header//h1[1]
+${login_btn}                                  //li[2]//a[1]
+${log_In_username_txtbx}                      //input[@id='username']
+${log_In_password_txtbx}                      //input[@id='password']
+${log_In_submit_btn}                          //input[@type='submit' and @value='Log In']

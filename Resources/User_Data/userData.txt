@@ -1,0 +1,9 @@
+*** Variables ***
+
+# Test user data for creating new users
+
+${entered_username}                          Demo
+${entered_password}                          Demo@
+${entered_firstname}                         Demo
+${entered_familyname}                        App
+${entered_phonenumber}                       98765

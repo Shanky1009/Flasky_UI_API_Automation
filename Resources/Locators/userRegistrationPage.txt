@@ -1,0 +1,12 @@
+*** Variables ***
+
+# New user registration page locators
+
+${demo_app_title}                          //h1//a[1]
+${register_Btn}                            //li[1]//a[1]
+${register_submit_btn}                     //input[@type='submit' and @value='Register']
+${username_txtbx}                          //input[@id='username']
+${password_txtbx}                          //input[@id='password']
+${firstname_txtbx}                         //input[@id='firstname']
+${familyname_txtbx}                        //input[@id='lastname']
+${phonenumber_txtbx}                       //input[@id='phone']

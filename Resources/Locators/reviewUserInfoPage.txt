@@ -1,0 +1,11 @@
+*** Variables ***
+
+# User Information table locators
+
+${usr_info_title}                          //header//h1[1]
+${value_username}                          //*[@id='content']//tr[2]//td[2]
+${value_firstname}                         //*[@id='content']//tr[3]//td[2]
+${value_lastname}                          //*[@id='content']//tr[4]//td[2]
+${value_phone}                             //*[@id='content']//tr[5]//td[2]
+${log_out}                                 //li[2]//a[1]
+${logged_in_username}                      //li[1]//span[1]
