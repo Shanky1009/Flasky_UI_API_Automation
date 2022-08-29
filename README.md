@@ -27,7 +27,7 @@ Step 7 : To execute API Automation script run below command -
 **Note:**
 * UI Automation Reports are generated under **Reports/** folder
 * API HTML Reports are generated under **Flasky_API_Automation/** folder 
-* pytest, pytest-html, requests are used for API automation script generation 
-* robotframework-selenium2library, robotframework are used for UI automation script generation
-* Pytest with Requests is used for API framework
-* Robot Framework is used for UI framework
+* pytest, pytest-html, requests are used for API automation scripts 
+* robotframework-selenium2library, robotframework are used for UI automation scripts
+* Pytest with Requests is used for API framework development
+* Robot Framework is used for UI framework development
